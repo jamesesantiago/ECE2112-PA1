@@ -236,3 +236,9 @@ def swap_bookends(items):
     first, *middle, last = items
     return [last] + middle + [first]
 ```
+
+
+Thanks for reading.
+
+
+Access the code at https://github.com/jamesesantiago/ECE2112-PA1/blob/main/James%20Eon%20M.%20Santiago%202ECE-B%20PA1.ipynb , download and open on Jupyter Notebook and run.
