@@ -242,5 +242,7 @@ Thanks for reading.
 
 
 Access the code at 
+
 https://github.com/jamesesantiago/ECE2112-PA1/blob/main/James%20Eon%20M.%20Santiago%202ECE-B%20PA1.ipynb
+
 Download and open on Jupyter Notebook to run the python notebook.
